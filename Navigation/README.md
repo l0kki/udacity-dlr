@@ -53,7 +53,7 @@ To set up your python environment to run the code in this repository, follow the
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 
-2. Place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+2. Place the file in the Navigation/ folder in the udacity-dlr repository, and unzip (or decompress) the file.
 
 ### Step 3:	Run code
 
